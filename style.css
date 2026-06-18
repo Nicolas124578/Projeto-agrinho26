@@ -11,14 +11,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: var(--cinza-escuro);
+    background-color: var(--cinza-claro);
     color: var(--texto);
     line-height: 1.6;
 }
 
 header {
     background-color: var(--verde-escuro);
-    color: white;
+    color: green;
     text-align: center;
     padding: 2rem 1rem;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -97,7 +97,7 @@ header p {
 /* Tela de Monitoramento / Output */
 .tela-monitoramento {
     background: #222;
-    color: #00ff00;
+    color: #006400;
     font-family: 'Courier New', Courier, monospace;
     padding: 1.5rem;
     border-radius: 8px;
